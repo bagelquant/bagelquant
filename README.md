@@ -6,6 +6,3 @@ I am Yanzhong (Eric) Huang,
 - 💼 three years of experience as a quantitative analyst and developer in the Fund of Funds (FoF) industry in China
 
 ✏️ [BagelQuant](https://bagelquant.com) blog is a collection of quant skills, finance knowledge, projects, programming tips, and personal experiences. 
-
-- [Posts](https://bagelquant.com/posts/)
-- [Projects](https://bagelquant.com/projects/)
