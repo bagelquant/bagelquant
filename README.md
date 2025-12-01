@@ -59,11 +59,3 @@ I am a **Quantitative Finance** practitioner completing my Master's at Rutgers B
 | **[bagel-factor](https://pypi.org/project/bagel-factor/)** | A comprehensive factor evaluation pipeline on PyPI for streamlined signal analysis. |
 | **[bagel-tushare](https://github.com/bagelquant/bagel-tushare)** | Robust, multithreaded data ingestion tool for financial datasets. |
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bagelquant&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagelquant&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-</div>
